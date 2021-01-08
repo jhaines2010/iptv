@@ -4,7 +4,10 @@
 http://36.37.252.114:888/Apple/OneTV-114/playlist.m3u8
 #EXTINF:0 tvg-id="K+1-HD" group-title="K+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/K%2B1_HD.png",K+1 HD - ASIA
 http://36.37.252.114:888/Apple/OneTV-114/playlist.m3u8
-
+#EXTINF:0 tvg-id="K+PM-HD" group-title="K+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/K%2BPM_HD.png",K+PM HD - ASIA
+http://113.160.106.75/hls/relay/NRCzBqe/index.m3u8
+#EXTINF:0 tvg-id="K+PM-HD" group-title="K+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/K%2BPM_HD.png",K+PM HD
+http://thatslife.cf/stream/channelid/265083351
 #EXTINF:-1 tvg-logo="https://manhtuongmedia.com/wp-content/uploads/2018/06/bongda.png" group-title="Bóng Đá",k+ pm
 http://14.177.93.203:9981/stream/channelid/855070388?profile=pass
 
