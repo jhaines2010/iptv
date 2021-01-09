@@ -1,0 +1,71 @@
+#EXTM3U url-tvg="http://gg.gg/epgbeartv" tvg-shift=0 m3uautoload=1
+#EXTINF:-1 tvg-id="" tvg-name="DP |  BEIN SPORTS Ñ (OPC 1)" tvg-logo="" group-title="DEPORTES ",DP |  BEIN SPORTS Ñ (OPC 1)
+https://az.chiase.sale/cAuAc9
+#EXTINF:-1 tvg-id="beinsport.ca" tvg-name="ESP | BEIN SPORTS Ñ (OP 1) HD" tvg-logo="https://i.imgur.com/XgrRyHy.png" group-title="DEPORTES ",ESP | BEIN SPORTS Ñ (OP 1) HD
+https://az.chiase.sale/q1Yp9H
+#EXTINF:-1 tvg-id="" tvg-name="ESP | BEIN SPORTS Ñ (OP 2) SD" tvg-logo="https://i.imgur.com/XgrRyHy.png" group-title="DEPORTES ",ESP | BEIN SPORTS Ñ (OP 2) SD
+https://az.chiase.sale/RnF0Ly
+#EXTINF:-1 tvg-id="" tvg-name="ESP | BEIN SPORTS Ñ (OP 3) HD" tvg-logo="https://i.imgur.com/XgrRyHy.png" group-title="DEPORTES ",ESP | BEIN SPORTS Ñ (OP 3) HD
+https://az.chiase.sale/oREExV
+#EXTINF:-1 tvg-id="" tvg-name="CA-S | BEIN SPORTS HD" tvg-logo="https://i.imgur.com/XgrRyHy.png" group-title="SPORTS HD",CA-S | BEIN SPORTS HD
+https://az.chiase.sale/qUC47A
+#EXTINF:-1 tvg-id="" tvg-name="US-S | BEIN SPORTS HD" tvg-logo="https://i.imgur.com/yPcEHB7.jpg" group-title="SPORTS HD",US-S | BEIN SPORTS HD
+https://az.chiase.sale/inSBtt
+#EXTINF:-1 tvg-id="" tvg-name="OSN | BEIN SPORTS 1 HD" tvg-logo="https://i.imgur.com/XgrRyHy.png" group-title="SPORTS HD",OSN | BEIN SPORTS 1 HD
+https://az.chiase.sale/gPq7qN
+#EXTINF:-1 tvg-id="" tvg-name="OSN | BEIN SPORTS 2 HD" tvg-logo="https://i.imgur.com/XgrRyHy.png" group-title="SPORTS HD",OSN | BEIN SPORTS 2 HD
+https://az.chiase.sale/IwHL30
+#EXTINF:-1 tvg-id="" tvg-name="OSN | BEIN SPORTS 3 HD" tvg-logo="https://i.imgur.com/XgrRyHy.png" group-title="SPORTS HD",OSN | BEIN SPORTS 3 HD
+https://az.chiase.sale/ZXYynA
+#EXTINF:-1 tvg-id="" tvg-name="OSN | BEIN SPORTS 4 HD" tvg-logo="https://i.imgur.com/XgrRyHy.png" group-title="SPORTS HD",OSN | BEIN SPORTS 4 HD
+https://az.chiase.sale/cbKUpz
+#EXTINF:-1 tvg-id="" tvg-name="OSN | BEIN SPORTS 5 HD" tvg-logo="https://i.imgur.com/XgrRyHy.png" group-title="SPORTS HD",OSN | BEIN SPORTS 5 HD
+https://az.chiase.sale/S9w0ic
+#EXTINF:-1 tvg-id="" tvg-name="OSN | BEIN SPORTS 6 HD" tvg-logo="https://i.imgur.com/XgrRyHy.png" group-title="SPORTS HD",OSN | BEIN SPORTS 6 HD
+https://az.chiase.sale/ttXCwV
+#EXTINF:-1 tvg-id="" tvg-name="OSN | BEIN SPORTS 7 HD" tvg-logo="https://i.imgur.com/XgrRyHy.png" group-title="SPORTS HD",OSN | BEIN SPORTS 7 HD
+https://az.chiase.sale/x1jSFp
+#EXTINF:-1 tvg-id="" tvg-name="OSN | BEIN SPORTS 8 HD" tvg-logo="https://i.imgur.com/XgrRyHy.png" group-title="SPORTS HD",OSN | BEIN SPORTS 8 HD
+https://az.chiase.sale/zKW8od
+#EXTINF:-1 tvg-id="" tvg-name="OSN | BEIN SPORTS 9 HD" tvg-logo="https://i.imgur.com/XgrRyHy.png" group-title="SPORTS HD",OSN | BEIN SPORTS 9 HD
+https://az.chiase.sale/99wxAY
+#EXTINF:-1 tvg-id="" tvg-name="OSN | BEIN SPORTS 10 HD" tvg-logo="https://i.imgur.com/XgrRyHy.png" group-title="SPORTS HD",OSN | BEIN SPORTS 10 HD
+https://az.chiase.sale/zqfwAy
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 1 HD TR" tvg-logo="" group-title="TURKEY",BEIN SPORTS 1 HD TR
+https://az.chiase.sale/Tv6Iee
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 2 HD TR" tvg-logo="" group-title="TURKEY",BEIN SPORTS 2 HD TR
+https://az.chiase.sale/KQNmC2
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 3 HD TR" tvg-logo="" group-title="TURKEY",BEIN SPORTS 3 HD TR
+https://az.chiase.sale/uSyHI4
+#EXTINF:-1 tvg-id="" tvg-name="VN | K+NS" tvg-logo="" group-title="TIVI VIETNAM ",VN | K+NS
+https://az.chiase.sale/OzZiIs
+#EXTINF:-1 tvg-id="" tvg-name="VN | K+ SPORT" tvg-logo="" group-title="TIVI VIETNAM ",VN | K+ SPORT
+https://az.chiase.sale/xdbO0b
+#EXTINF:-1 tvg-id="" tvg-name="VN | THVL 3 HD" tvg-logo="" group-title="TIVI VIETNAM ",VN | THVL 3 HD
+https://az.chiase.sale/F4f0Cw
+#EXTINF:-1 tvg-id="" tvg-name="VN | VTV Cab 5" tvg-logo="" group-title="TIVI VIETNAM ",VN | VTV Cab 5
+https://az.chiase.sale/ryxEUE
+#EXTINF:-1 tvg-id="" tvg-name="VN | HTV SPORT" tvg-logo="" group-title="TIVI VIETNAM ",VN | HTV SPORT
+https://az.chiase.sale/uDWLrm
+#EXTINF:-1 tvg-id="" tvg-name="VN | THVL 4 HD" tvg-logo="" group-title="TIVI VIETNAM ",VN | THVL 4 HD
+https://az.chiase.sale/hEQlfv
+#EXTINF:-1 tvg-id="" tvg-name="VN | HTV 9 HD" tvg-logo="" group-title="TIVI VIETNAM ",VN | HTV 9 HD
+https://az.chiase.sale/klKS7B
+#EXTINF:-1 tvg-id="" tvg-name="VN | SC TV 11" tvg-logo="" group-title="TIVI VIETNAM ",VN | SC TV 11
+https://az.chiase.sale/JBxief
+#EXTINF:-1 tvg-id="" tvg-name="VN | THVL 2 HD" tvg-logo="" group-title="TIVI VIETNAM ",VN | THVL 2 HD
+https://az.chiase.sale/7UGea5
+#EXTINF:-1 tvg-id="" tvg-name="VN | THOI SU" tvg-logo="" group-title="TIVI VIETNAM ",VN | THOI SU
+https://az.chiase.sale/L3S1qX
+#EXTINF:-1 tvg-id="" tvg-name="VN | THVL 1 HD" tvg-logo="" group-title="TIVI VIETNAM ",VN | THVL 1 HD
+https://az.chiase.sale/2yLC79
+#EXTINF:-1 tvg-id="" tvg-name="VN | HTV 2 HD" tvg-logo="" group-title="TIVI VIETNAM ",VN | HTV 2 HD
+https://az.chiase.sale/4LWsCh
+#EXTINF:-1 tvg-id="" tvg-name="VN | SCTV PHIM" tvg-logo="" group-title="TIVI VIETNAM ",VN | SCTV PHIM
+https://az.chiase.sale/L0DNBr
+#EXTINF:-1 tvg-id="" tvg-name="VN | HTV 7 HD" tvg-logo="" group-title="TIVI VIETNAM ",VN | HTV 7 HD
+https://az.chiase.sale/3iWSjd
+#EXTINF:-1 tvg-id="" tvg-name="VN | TVB V" tvg-logo="" group-title="TIVI VIETNAM ",VN | TVB V
+https://az.chiase.sale/92xGax
+#EXTINF:-1 tvg-id="" tvg-name="VN | VTV 6 HD" tvg-logo="" group-title="TIVI VIETNAM ",VN | VTV 6 HD
+https://az.chiase.sale/xfVJix
