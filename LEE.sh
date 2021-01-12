@@ -17,7 +17,7 @@ sudo systemctl disable lightdm.service
 wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
 sudo dpkg --install google-chrome-stable_current_amd64.deb
 sudo apt install --assume-yes --fix-broken
-https://dl.teamviewer.com/download/linux/version_15x/teamviewer_15.13.6_amd64.deb
+wget https://dl.teamviewer.com/download/linux/version_15x/teamviewer_15.13.6_amd64.deb
 sudo dpkg --install teamviewer_15.13.6_amd64.deb
 sudo apt install --assume-yes --fix-broken
 sudo apt install nautilus nano -y 
