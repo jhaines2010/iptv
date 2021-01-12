@@ -14,11 +14,8 @@ apt install --assume-yes xfce4 desktop-base
 sudo bash -c 'echo "exec /etc/X11/Xsession /usr/bin/xfce4-session" > /etc/chrome-remote-desktop-session'  
 sudo apt install --assume-yes xscreensaver
 sudo systemctl disable lightdm.service
-wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
-sudo dpkg --install google-chrome-stable_current_amd64.deb
-sudo apt install --assume-yes --fix-broken
-wget https://dl.teamviewer.com/download/linux/version_15x/teamviewer_15.13.6_amd64.deb
-sudo dpkg --install teamviewer_15.13.6_amd64.deb
+wget https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-dev/microsoft-edge-dev_89.0.752.1-1_amd64.deb
+sudo dpkg --install microsoft-edge-dev_89.0.752.1-1_amd64.deb
 sudo apt install --assume-yes --fix-broken
 sudo apt install nautilus nano -y 
 sudo adduser HONGLEE chrome-remote-desktop
