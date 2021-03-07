@@ -17,9 +17,12 @@ sudo systemctl disable lightdm.service
 wget https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-dev/microsoft-edge-dev_89.0.752.1-1_amd64.deb
 sudo dpkg --install microsoft-edge-dev_89.0.752.1-1_amd64.deb
 sudo apt install --assume-yes --fix-broken
-https://dl.teamviewer.com/download/linux/version_15x/teamviewer_15.13.6_amd64.deb
+wget https://dl.teamviewer.com/download/linux/version_15x/teamviewer_15.13.6_amd64.deb
 sudo dpkg --install teamviewer_15.13.6_amd64.deb
 sudo apt install --assume-yes --fix-broken
+sudo apt-get update
+sudo apt-get install snapd snapd-xdg-open
+sudo snap install notepad-plus-plus
 sudo apt install nautilus nano -y 
 sudo adduser HONGLEE chrome-remote-desktop
 } &> /dev/null &&
